@@ -1,0 +1,21 @@
+@use 'variables' as v;
+
+/*  ESTE CONTENIDO ES ÚNICAMENTE DE DEMOSTRACIÓN  */
+/*  ESTE CONTENIDO ES ÚNICAMENTE DE DEMOSTRACIÓN  */
+/*  ESTE CONTENIDO ES ÚNICAMENTE DE DEMOSTRACIÓN  */
+/*  ESTE CONTENIDO ES ÚNICAMENTE DE DEMOSTRACIÓN  */
+
+h1 {
+    font-size: 4rem;
+}
+h2 {
+    font-size: 3.6rem;
+}
+h3 {
+    font-size: 3rem;
+    text-align: center;
+}
+p {
+    color: v.$blanco;
+    font-size: 2rem;
+}
