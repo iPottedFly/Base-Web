@@ -20,7 +20,7 @@ I will teach you step by step how to start it and how you can start creating you
 
 # Step 2.
 
-1) Download the project and Download the project and put it in **C:\apache\htdocs**
+1) Download the project and put it in **C:\apache\htdocs**
 2) Open your project using Visual Studio Code or some other good code editor
 3) Open the terminal and run **npm install** (Remember to have npm installed)
 4) Open the terminal and run **composer init** Follow the Composer steps and when finished, your composer should look as shown in the image. (The dependencies or the **"require"** section is **not necessary** in your composer unless you are going to use a dependency)
@@ -85,3 +85,6 @@ $router->get('/', [LoginController::class, "login"]);
 $router->post('/', [LoginController::class, "login"]);
 
 ```
+
+
+
